@@ -30,23 +30,6 @@
 
 ---
 
-## 🛠️ Teknologi yang Kami Gunakan
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-</div>
-
----
-
 ## 💎 Kenapa Bytenodes Host?
 
 - ⚡ **Uptime 99.9%** — Infrastruktur kami dirancang untuk keandalan maksimal
@@ -56,10 +39,3 @@
 - 🇮🇩 **Lokal & Cepat** — Server berlokasi di Indonesia untuk latensi rendah
 
 ---
-
-
-<div align="center">
-
-**© 2026 Bytenodes Host** · Dibuat dengan ❤️ untuk Indonesia
-
-</div>
